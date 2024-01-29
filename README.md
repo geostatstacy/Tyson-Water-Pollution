@@ -4,7 +4,7 @@ https://echo.epa.gov/trends/loading-tool/water-pollution-search
 Raw data collected by Omanjana Goswami. 
 
 Search Type: Discharge Monitoring Report  
-Year: 2018 - 2022 
-Location: Nationwide 
-Pollutants: All pollutants 
+Year: 2018 - 2022;  
+Location: Nationwide; 
+Pollutants: All pollutants ;
 Sources: All point sources
