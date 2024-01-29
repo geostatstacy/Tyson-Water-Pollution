@@ -2,7 +2,7 @@ Reportable pollutant water discharges by Tyson Foods and subsidiaries Hillshire 
 https://echo.epa.gov/trends/loading-tool/water-pollution-search 
 (another Tyson subsidiary, Keystone Foods, was excluded from the analysis because annual discharge pounds per year were not available for the complete study period at the time of download).
 Raw data collected by Omanjana Goswami. 
-Search Methodology:  
+
 Search Type: Discharge Monitoring Report  
 Year: Each year was selected individually from 2018 to 2022  
 Location: Nationwide 
