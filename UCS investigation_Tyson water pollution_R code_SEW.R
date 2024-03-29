@@ -1,6 +1,5 @@
-# Code written by Stacy Woods
 # For UCS investigation into water pollution from Tysons meat processing plants
-# Work done in 2023, report expected release March or April 2024
+# Work done in 2023, report expected release April 2024
 #####################################################################
 
 # packages
@@ -353,7 +352,7 @@ sum(DMR1822sumbyplant$SumTotTWPELbs1822)
 ### Worst offender facilities  ###
 #############
 
-# Decision to focus on Total pounds, not hazard weighted pounds, for simplicity in messaging
+# Focus on Total pounds, not hazard weighted pounds, for simplicity in messaging
 
 colnames(DMR1822sumbyplant)
 nrow(DMR1822sumbyplant)
