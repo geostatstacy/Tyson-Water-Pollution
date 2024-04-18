@@ -16,7 +16,7 @@ library(tidyverse)
 library(dplyr)
 
 #read in all cvs's in folder
-setwd("C:/Users/swoods/OneDrive - Union of Concerned Scientists/FE report_tyson water/Current working folder/AAA updating waste water numbers/my work/my data")
+setwd("...")
 getwd()
 
 # bring in all csv's # List all CSV files in the directory
@@ -42,7 +42,7 @@ assign("combined_df", combined_df, envir = .GlobalEnv)
 
 ########################## Clean data ###########################
 
-# remove entries that are not actually tyson or subsidiary plants
+# remove entries that are not tyson or subsidiary processing plants
 
 colnames(combined_df)
 unique(combined_df$`Facility Name`)
