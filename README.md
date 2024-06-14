@@ -1,7 +1,7 @@
 Reportable pollutant water discharges by Tyson Foods and subsidiaries Hillshire Brands and Tecumseh Poultry for study period 2018 - 2022. Downloaded from EPA's ECHO Water Pollution Search 3/14/2023, 3/17/2023, 5/23/2023.
 https://echo.epa.gov/trends/loading-tool/water-pollution-search 
 (another Tyson subsidiary, Keystone Foods, was excluded from the analysis because annual discharge pounds per year were not available for the complete study period at the time of download).
-Raw data collected by Omanjana Goswami. Initial data clean by Omanjana Goswami.
+Raw data collected and initially cleaned by Omanjana Goswami..
 
 Search Type: Discharge Monitoring Report  
 Year: 2018 - 2022  
